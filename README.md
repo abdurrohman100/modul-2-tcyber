@@ -86,4 +86,4 @@ Subtitution Cipher mirip dengan Caesar cipher hanya saja kita bebas mennganti se
 
 
 ## RSA 
-RSA adalah sebuah enkripsi dengan mengggunakan suatu public key tertentu. Kemudian untuk melakukan dekripsi kita harus menggunaan private key. RSA ini termasuk problems yang sering muncul pada perlombaan ctf. Untuk lebih jelas mengenai RSA bisa dibaca [disini](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) dan [disni](https://ctf101.org/cryptography/what-is-rsa/). Biasanya problem RSA ini harus diselesaikan dengan bahasa python atu menggunakan RSA Tool.
+RSA adalah sebuah enkripsi dengan mengggunakan suatu public key tertentu. Kemudian untuk melakukan dekripsi kita harus menggunaan private key. RSA ini termasuk problems yang sering muncul pada perlombaan ctf. Untuk lebih jelas mengenai RSA bisa dibaca [disini](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) dan [disni](https://ctf101.org/cryptography/what-is-rsa/). Untuk step by step bisa dilihat [disini](https://www.cryptool.org/en/cto-highlights/rsa-step-by-step). Biasanya problem RSA ini kebanyakan diselesaikan dengan scripting bahasa python atau menggunakan RSATool.
