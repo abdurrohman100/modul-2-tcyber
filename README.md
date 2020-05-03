@@ -87,3 +87,18 @@ Subtitution Cipher mirip dengan Caesar cipher hanya saja kita bebas mennganti se
 
 ## RSA 
 RSA adalah sebuah enkripsi dengan mengggunakan suatu public key tertentu. Kemudian untuk melakukan dekripsi kita harus menggunaan private key. RSA ini termasuk problems yang sering muncul pada perlombaan ctf. Untuk lebih jelas mengenai RSA bisa dibaca [disini](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) dan [disni](https://ctf101.org/cryptography/what-is-rsa/). Untuk step by step bisa dilihat [disini](https://www.cryptool.org/en/cto-highlights/rsa-step-by-step). Biasanya problem RSA ini kebanyakan diselesaikan dengan scripting bahasa python atau menggunakan RSATool.
+
+>[RSA Noob](https://ctflearn.com/challenge/120)
+>These numbers were scratched out on a prison wall. Can you help me decode them? https://mega.nz/#!al8iDSYB!s5olEDK5zZmYdx1LZU8s4CmYqnynvU_aOUvdQojJPJQ
+<details>
+  <summary>Isi File</summary>
+  
+>e: 1
+c:9327565722767258308650643213344542404592011161659991421
+n: 245841236512478852752909734912575581815967630033049838269083
+</details>
+<details>
+  <summary>Flags</summary>
+  
+  >abctf{b3tter_up_y0ur_e}
+</details>
