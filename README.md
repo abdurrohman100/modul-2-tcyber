@@ -62,7 +62,7 @@ Vignere Cipher merupakan pengembangan Caesar Cipher, dimana string dienkripsi de
 
 Pada table Vignere kita bisa melihat bahwa table itu berisi kumpulan caesar cipher.
 Misal kita punya strings "VIGNERE" dan key "TCKS", 
-![alt](/src/CKS.png)
+![TCKS Vignere Table](https://github.com/abdurrohman100/modul-2-tcyber/blob/master/src/TCKS.png)
 Kita lakukan enkripsi seperti berikut. Huruf V akan di caesar cipher denga shift sebanyak T sehingga menghasilkan O, I di shift dengan C sehinggga menghasilkna K, G di shift dengan K menghasilkan Q, N di shift dengan S menghasilkan F, kemudia key nya kembali lagi ke T. sehingga E dishift dengan T menghasilkan X dan seterusnya. Untuk dekripsinya tinggal dibalik mengurangi pesan yang sudah terenkripsi dengan keynya. 
 Untuk penyelesaikan permasalahan ini bisa menggunakan python atau menggunakan website seperti [ini](http://www.counton.org/explorer/codebreaking/vigenere-cipher.php).
 
